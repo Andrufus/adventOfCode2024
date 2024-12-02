@@ -2,7 +2,7 @@ package days
 
 import kotlin.math.abs
 
-class Day1 : Day() {
+class Day1 : Day(1u) {
     private val list1 = mutableListOf<Int>()
     private val list2 = mutableListOf<Int>()
 
